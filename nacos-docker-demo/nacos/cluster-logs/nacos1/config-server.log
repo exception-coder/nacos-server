@@ -1,0 +1,2554 @@
+2019-06-05 00:00:02,188 INFO check master db.
+
+2019-06-05 00:00:04,663 INFO check db health.
+
+2019-06-05 00:00:12,191 INFO check master db.
+
+2019-06-05 00:00:14,665 INFO check db health.
+
+2019-06-05 00:00:22,192 INFO check master db.
+
+2019-06-05 00:00:24,667 INFO check db health.
+
+2019-06-05 00:00:32,193 INFO check master db.
+
+2019-06-05 00:00:34,671 INFO check db health.
+
+2019-06-05 00:00:42,194 INFO check master db.
+
+2019-06-05 00:00:44,673 INFO check db health.
+
+2019-06-05 00:00:52,195 INFO check master db.
+
+2019-06-05 00:00:54,679 INFO check db health.
+
+2019-06-05 00:01:02,196 INFO check master db.
+
+2019-06-05 00:01:04,681 INFO check db health.
+
+2019-06-05 00:01:12,196 INFO check master db.
+
+2019-06-05 00:01:14,685 INFO check db health.
+
+2019-06-05 00:01:22,197 INFO check master db.
+
+2019-06-05 00:01:24,687 INFO check db health.
+
+2019-06-05 00:01:32,198 INFO check master db.
+
+2019-06-05 00:01:34,691 INFO check db health.
+
+2019-06-05 00:01:42,199 INFO check master db.
+
+2019-06-05 00:01:44,692 INFO check db health.
+
+2019-06-05 00:01:52,201 INFO check master db.
+
+2019-06-05 00:01:54,695 INFO check db health.
+
+2019-06-05 00:02:02,202 INFO check master db.
+
+2019-06-05 00:02:04,699 INFO check db health.
+
+2019-06-05 00:02:12,203 INFO check master db.
+
+2019-06-05 00:02:14,702 INFO check db health.
+
+2019-06-05 00:02:22,204 INFO check master db.
+
+2019-06-05 00:02:24,707 INFO check db health.
+
+2019-06-05 00:02:32,205 INFO check master db.
+
+2019-06-05 00:02:34,710 INFO check db health.
+
+2019-06-05 00:02:42,206 INFO check master db.
+
+2019-06-05 00:02:44,714 INFO check db health.
+
+2019-06-05 00:02:52,207 INFO check master db.
+
+2019-06-05 00:02:54,717 INFO check db health.
+
+2019-06-05 00:03:02,208 INFO check master db.
+
+2019-06-05 00:03:04,720 INFO check db health.
+
+2019-06-05 00:03:12,209 INFO check master db.
+
+2019-06-05 00:03:14,723 INFO check db health.
+
+2019-06-05 00:03:22,210 INFO check master db.
+
+2019-06-05 00:03:24,727 INFO check db health.
+
+2019-06-05 00:03:32,211 INFO check master db.
+
+2019-06-05 00:03:34,730 INFO check db health.
+
+2019-06-05 00:03:42,212 INFO check master db.
+
+2019-06-05 00:03:44,733 INFO check db health.
+
+2019-06-05 00:03:52,213 INFO check master db.
+
+2019-06-05 00:03:54,739 INFO check db health.
+
+2019-06-05 00:04:02,214 INFO check master db.
+
+2019-06-05 00:04:04,742 INFO check db health.
+
+2019-06-05 00:04:12,215 INFO check master db.
+
+2019-06-05 00:04:14,745 INFO check db health.
+
+2019-06-05 00:04:22,216 INFO check master db.
+
+2019-06-05 00:04:24,748 INFO check db health.
+
+2019-06-05 00:04:32,218 INFO check master db.
+
+2019-06-05 00:04:34,752 INFO check db health.
+
+2019-06-05 00:04:42,219 INFO check master db.
+
+2019-06-05 00:04:44,755 INFO check db health.
+
+2019-06-05 00:04:52,220 INFO check master db.
+
+2019-06-05 00:04:54,758 INFO check db health.
+
+2019-06-05 00:05:02,221 INFO check master db.
+
+2019-06-05 00:05:04,761 INFO check db health.
+
+2019-06-05 00:05:12,222 INFO check master db.
+
+2019-06-05 00:05:14,765 INFO check db health.
+
+2019-06-05 00:05:22,223 INFO check master db.
+
+2019-06-05 00:05:24,770 INFO check db health.
+
+2019-06-05 00:05:32,224 INFO check master db.
+
+2019-06-05 00:05:34,774 INFO check db health.
+
+2019-06-05 00:05:42,226 INFO check master db.
+
+2019-06-05 00:05:44,777 INFO check db health.
+
+2019-06-05 00:05:52,227 INFO check master db.
+
+2019-06-05 00:05:54,780 INFO check db health.
+
+2019-06-05 00:06:02,228 INFO check master db.
+
+2019-06-05 00:06:04,782 INFO check db health.
+
+2019-06-05 00:06:12,229 INFO check master db.
+
+2019-06-05 00:06:14,785 INFO check db health.
+
+2019-06-05 00:06:22,230 INFO check master db.
+
+2019-06-05 00:06:24,788 INFO check db health.
+
+2019-06-05 00:06:32,231 INFO check master db.
+
+2019-06-05 00:06:34,791 INFO check db health.
+
+2019-06-05 00:06:42,232 INFO check master db.
+
+2019-06-05 00:06:44,794 INFO check db health.
+
+2019-06-05 00:06:52,234 INFO check master db.
+
+2019-06-05 00:06:54,800 INFO check db health.
+
+2019-06-05 00:07:02,235 INFO check master db.
+
+2019-06-05 00:07:04,803 INFO check db health.
+
+2019-06-05 00:07:12,236 INFO check master db.
+
+2019-06-05 00:07:14,806 INFO check db health.
+
+2019-06-05 00:07:22,237 INFO check master db.
+
+2019-06-05 00:07:24,810 INFO check db health.
+
+2019-06-05 00:07:32,238 INFO check master db.
+
+2019-06-05 00:07:34,813 INFO check db health.
+
+2019-06-05 00:07:42,240 INFO check master db.
+
+2019-06-05 00:07:44,816 INFO check db health.
+
+2019-06-05 00:07:52,241 INFO check master db.
+
+2019-06-05 00:07:54,819 INFO check db health.
+
+2019-06-05 00:08:02,243 INFO check master db.
+
+2019-06-05 00:08:04,823 INFO check db health.
+
+2019-06-05 00:08:12,244 INFO check master db.
+
+2019-06-05 00:08:14,827 INFO check db health.
+
+2019-06-05 00:08:22,245 INFO check master db.
+
+2019-06-05 00:08:24,831 INFO check db health.
+
+2019-06-05 00:08:32,247 INFO check master db.
+
+2019-06-05 00:08:34,834 INFO check db health.
+
+2019-06-05 00:08:42,249 INFO check master db.
+
+2019-06-05 00:08:44,837 INFO check db health.
+
+2019-06-05 00:08:52,250 INFO check master db.
+
+2019-06-05 00:08:54,840 INFO check db health.
+
+2019-06-05 00:09:02,252 INFO check master db.
+
+2019-06-05 00:09:04,844 INFO check db health.
+
+2019-06-05 00:09:12,253 INFO check master db.
+
+2019-06-05 00:09:14,847 INFO check db health.
+
+2019-06-05 00:09:22,255 INFO check master db.
+
+2019-06-05 00:09:24,851 INFO check db health.
+
+2019-06-05 00:09:32,256 INFO check master db.
+
+2019-06-05 00:09:34,854 INFO check db health.
+
+2019-06-05 00:09:42,257 INFO check master db.
+
+2019-06-05 00:09:44,859 INFO check db health.
+
+2019-06-05 00:09:52,259 INFO check master db.
+
+2019-06-05 00:09:54,863 INFO check db health.
+
+2019-06-05 00:10:02,260 INFO check master db.
+
+2019-06-05 00:10:04,866 INFO check db health.
+
+2019-06-05 00:10:12,262 INFO check master db.
+
+2019-06-05 00:10:14,869 INFO check db health.
+
+2019-06-05 00:10:22,263 INFO check master db.
+
+2019-06-05 00:10:24,872 INFO check db health.
+
+2019-06-05 00:10:32,265 INFO check master db.
+
+2019-06-05 00:10:34,875 INFO check db health.
+
+2019-06-05 00:10:42,266 INFO check master db.
+
+2019-06-05 00:10:44,879 INFO check db health.
+
+2019-06-05 00:10:52,268 INFO check master db.
+
+2019-06-05 00:10:54,882 INFO check db health.
+
+2019-06-05 00:11:02,269 INFO check master db.
+
+2019-06-05 00:11:04,885 INFO check db health.
+
+2019-06-05 00:11:12,271 INFO check master db.
+
+2019-06-05 00:11:14,891 INFO check db health.
+
+2019-06-05 00:11:22,272 INFO check master db.
+
+2019-06-05 00:11:24,895 INFO check db health.
+
+2019-06-05 00:11:32,274 INFO check master db.
+
+2019-06-05 00:11:34,898 INFO check db health.
+
+2019-06-05 00:11:42,275 INFO check master db.
+
+2019-06-05 00:11:44,901 INFO check db health.
+
+2019-06-05 00:11:52,277 INFO check master db.
+
+2019-06-05 00:11:54,905 INFO check db health.
+
+2019-06-05 00:12:02,278 INFO check master db.
+
+2019-06-05 00:12:04,907 INFO check db health.
+
+2019-06-05 00:12:12,278 INFO check master db.
+
+2019-06-05 00:12:14,910 INFO check db health.
+
+2019-06-05 00:12:22,279 INFO check master db.
+
+2019-06-05 00:12:24,914 INFO check db health.
+
+2019-06-05 00:12:32,281 INFO check master db.
+
+2019-06-05 00:12:34,917 INFO check db health.
+
+2019-06-05 00:12:42,282 INFO check master db.
+
+2019-06-05 00:12:44,919 INFO check db health.
+
+2019-06-05 00:12:52,283 INFO check master db.
+
+2019-06-05 00:12:54,923 INFO check db health.
+
+2019-06-05 00:13:02,285 INFO check master db.
+
+2019-06-05 00:13:04,926 INFO check db health.
+
+2019-06-05 00:13:12,286 INFO check master db.
+
+2019-06-05 00:13:14,929 INFO check db health.
+
+2019-06-05 00:13:22,287 INFO check master db.
+
+2019-06-05 00:13:24,933 INFO check db health.
+
+2019-06-05 00:13:32,289 INFO check master db.
+
+2019-06-05 00:13:34,936 INFO check db health.
+
+2019-06-05 00:13:42,290 INFO check master db.
+
+2019-06-05 00:13:44,939 INFO check db health.
+
+2019-06-05 00:13:52,291 INFO check master db.
+
+2019-06-05 00:13:54,943 INFO check db health.
+
+2019-06-05 00:14:02,293 INFO check master db.
+
+2019-06-05 00:14:04,946 INFO check db health.
+
+2019-06-05 00:14:12,294 INFO check master db.
+
+2019-06-05 00:14:14,951 INFO check db health.
+
+2019-06-05 00:14:22,295 INFO check master db.
+
+2019-06-05 00:14:24,955 INFO check db health.
+
+2019-06-05 00:14:32,297 INFO check master db.
+
+2019-06-05 00:14:34,958 INFO check db health.
+
+2019-06-05 00:14:42,299 INFO check master db.
+
+2019-06-05 00:14:44,961 INFO check db health.
+
+2019-06-05 00:14:52,300 INFO check master db.
+
+2019-06-05 00:14:54,964 INFO check db health.
+
+2019-06-05 00:15:02,301 INFO check master db.
+
+2019-06-05 00:15:04,966 INFO check db health.
+
+2019-06-05 00:15:12,302 INFO check master db.
+
+2019-06-05 00:15:14,969 INFO check db health.
+
+2019-06-05 00:15:22,303 INFO check master db.
+
+2019-06-05 00:15:24,972 INFO check db health.
+
+2019-06-05 00:15:32,305 INFO check master db.
+
+2019-06-05 00:15:34,973 INFO check db health.
+
+2019-06-05 00:15:42,306 INFO check master db.
+
+2019-06-05 00:15:44,978 INFO check db health.
+
+2019-06-05 00:15:52,308 INFO check master db.
+
+2019-06-05 00:15:54,981 INFO check db health.
+
+2019-06-05 00:16:02,310 INFO check master db.
+
+2019-06-05 00:16:04,982 INFO check db health.
+
+2019-06-05 00:16:12,312 INFO check master db.
+
+2019-06-05 00:16:14,984 INFO check db health.
+
+2019-06-05 00:16:22,313 INFO check master db.
+
+2019-06-05 00:16:24,987 INFO check db health.
+
+2019-06-05 00:16:32,314 INFO check master db.
+
+2019-06-05 00:16:34,989 INFO check db health.
+
+2019-06-05 00:16:42,316 INFO check master db.
+
+2019-06-05 00:16:44,992 INFO check db health.
+
+2019-06-05 00:16:52,317 INFO check master db.
+
+2019-06-05 00:16:54,996 INFO check db health.
+
+2019-06-05 00:17:02,319 INFO check master db.
+
+2019-06-05 00:17:04,998 INFO check db health.
+
+2019-06-05 00:17:12,321 INFO check master db.
+
+2019-06-05 00:17:15,000 INFO check db health.
+
+2019-06-05 00:17:22,322 INFO check master db.
+
+2019-06-05 00:17:25,003 INFO check db health.
+
+2019-06-05 00:17:32,325 INFO check master db.
+
+2019-06-05 00:17:35,006 INFO check db health.
+
+2019-06-05 00:17:42,326 INFO check master db.
+
+2019-06-05 00:17:45,008 INFO check db health.
+
+2019-06-05 00:17:52,328 INFO check master db.
+
+2019-06-05 00:17:55,011 INFO check db health.
+
+2019-06-05 00:18:02,329 INFO check master db.
+
+2019-06-05 00:18:05,014 INFO check db health.
+
+2019-06-05 00:18:12,331 INFO check master db.
+
+2019-06-05 00:18:15,017 INFO check db health.
+
+2019-06-05 00:18:22,333 INFO check master db.
+
+2019-06-05 00:18:25,020 INFO check db health.
+
+2019-06-05 00:18:32,334 INFO check master db.
+
+2019-06-05 00:18:35,025 INFO check db health.
+
+2019-06-05 00:18:42,336 INFO check master db.
+
+2019-06-05 00:18:45,026 INFO check db health.
+
+2019-06-05 00:18:52,337 INFO check master db.
+
+2019-06-05 00:18:55,030 INFO check db health.
+
+2019-06-05 00:19:02,339 INFO check master db.
+
+2019-06-05 00:19:05,031 INFO check db health.
+
+2019-06-05 00:19:12,341 INFO check master db.
+
+2019-06-05 00:19:15,035 INFO check db health.
+
+2019-06-05 00:19:22,342 INFO check master db.
+
+2019-06-05 00:19:25,038 INFO check db health.
+
+2019-06-05 00:19:32,345 INFO check master db.
+
+2019-06-05 00:19:35,041 INFO check db health.
+
+2019-06-05 00:19:42,346 INFO check master db.
+
+2019-06-05 00:19:45,045 INFO check db health.
+
+2019-06-05 00:19:52,348 INFO check master db.
+
+2019-06-05 00:19:55,048 INFO check db health.
+
+2019-06-05 00:20:02,350 INFO check master db.
+
+2019-06-05 00:20:05,053 INFO check db health.
+
+2019-06-05 00:20:12,352 INFO check master db.
+
+2019-06-05 00:20:15,056 INFO check db health.
+
+2019-06-05 00:20:22,354 INFO check master db.
+
+2019-06-05 00:20:25,059 INFO check db health.
+
+2019-06-05 00:20:32,356 INFO check master db.
+
+2019-06-05 00:20:35,062 INFO check db health.
+
+2019-06-05 00:20:42,358 INFO check master db.
+
+2019-06-05 00:20:45,065 INFO check db health.
+
+2019-06-05 00:20:52,359 INFO check master db.
+
+2019-06-05 00:20:55,068 INFO check db health.
+
+2019-06-05 00:21:02,361 INFO check master db.
+
+2019-06-05 00:21:05,071 INFO check db health.
+
+2019-06-05 00:21:12,363 INFO check master db.
+
+2019-06-05 00:21:15,074 INFO check db health.
+
+2019-06-05 00:21:22,365 INFO check master db.
+
+2019-06-05 00:21:25,078 INFO check db health.
+
+2019-06-05 00:21:32,367 INFO check master db.
+
+2019-06-05 00:21:35,084 INFO check db health.
+
+2019-06-05 00:21:42,369 INFO check master db.
+
+2019-06-05 00:21:45,087 INFO check db health.
+
+2019-06-05 00:21:52,371 INFO check master db.
+
+2019-06-05 00:21:55,090 INFO check db health.
+
+2019-06-05 00:22:02,372 INFO check master db.
+
+2019-06-05 00:22:05,092 INFO check db health.
+
+2019-06-05 00:22:12,374 INFO check master db.
+
+2019-06-05 00:22:15,094 INFO check db health.
+
+2019-06-05 00:22:22,376 INFO check master db.
+
+2019-06-05 00:22:25,095 INFO check db health.
+
+2019-06-05 00:22:32,378 INFO check master db.
+
+2019-06-05 00:22:35,098 INFO check db health.
+
+2019-06-05 00:22:42,380 INFO check master db.
+
+2019-06-05 00:22:45,102 INFO check db health.
+
+2019-06-05 00:22:52,382 INFO check master db.
+
+2019-06-05 00:22:55,105 INFO check db health.
+
+2019-06-05 00:23:02,384 INFO check master db.
+
+2019-06-05 00:23:05,111 INFO check db health.
+
+2019-06-05 00:23:12,386 INFO check master db.
+
+2019-06-05 00:23:15,114 INFO check db health.
+
+2019-06-05 00:23:22,386 INFO check master db.
+
+2019-06-05 00:23:25,117 INFO check db health.
+
+2019-06-05 00:23:32,388 INFO check master db.
+
+2019-06-05 00:23:35,119 INFO check db health.
+
+2019-06-05 00:23:42,390 INFO check master db.
+
+2019-06-05 00:23:45,122 INFO check db health.
+
+2019-06-05 00:23:49,931 INFO [all-dump] 1 / 1
+
+2019-06-05 00:23:49,933 INFO [all-dump] 1 / 1
+
+2019-06-05 00:23:52,392 INFO check master db.
+
+2019-06-05 00:23:55,125 INFO check db health.
+
+2019-06-05 00:24:02,394 INFO check master db.
+
+2019-06-05 00:24:05,129 INFO check db health.
+
+2019-06-05 00:24:12,396 INFO check master db.
+
+2019-06-05 00:24:15,132 INFO check db health.
+
+2019-06-05 00:24:22,400 INFO check master db.
+
+2019-06-05 00:24:25,136 INFO check db health.
+
+2019-06-05 00:24:32,402 INFO check master db.
+
+2019-06-05 00:24:35,139 INFO check db health.
+
+2019-06-05 00:24:42,404 INFO check master db.
+
+2019-06-05 00:24:45,143 INFO check db health.
+
+2019-06-05 00:24:52,406 INFO check master db.
+
+2019-06-05 00:24:55,146 INFO check db health.
+
+2019-06-05 00:25:02,407 INFO check master db.
+
+2019-06-05 00:25:05,149 INFO check db health.
+
+2019-06-05 00:25:12,409 INFO check master db.
+
+2019-06-05 00:25:15,151 INFO check db health.
+
+2019-06-05 00:25:22,411 INFO check master db.
+
+2019-06-05 00:25:25,154 INFO check db health.
+
+2019-06-05 00:25:32,412 INFO check master db.
+
+2019-06-05 00:25:35,157 INFO check db health.
+
+2019-06-05 00:25:42,414 INFO check master db.
+
+2019-06-05 00:25:45,161 INFO check db health.
+
+2019-06-05 00:25:52,416 INFO check master db.
+
+2019-06-05 00:25:55,166 INFO check db health.
+
+2019-06-05 00:26:02,417 INFO check master db.
+
+2019-06-05 00:26:05,170 INFO check db health.
+
+2019-06-05 00:26:12,419 INFO check master db.
+
+2019-06-05 00:26:15,173 INFO check db health.
+
+2019-06-05 00:26:22,420 INFO check master db.
+
+2019-06-05 00:26:25,177 INFO check db health.
+
+2019-06-05 00:26:32,421 INFO check master db.
+
+2019-06-05 00:26:35,178 INFO check db health.
+
+2019-06-05 00:26:42,423 INFO check master db.
+
+2019-06-05 00:26:45,181 INFO check db health.
+
+2019-06-05 00:26:52,425 INFO check master db.
+
+2019-06-05 00:26:55,185 INFO check db health.
+
+2019-06-05 00:27:02,426 INFO check master db.
+
+2019-06-05 00:27:05,188 INFO check db health.
+
+2019-06-05 00:27:12,428 INFO check master db.
+
+2019-06-05 00:27:15,189 INFO check db health.
+
+2019-06-05 00:27:22,430 INFO check master db.
+
+2019-06-05 00:27:25,195 INFO check db health.
+
+2019-06-05 00:27:32,431 INFO check master db.
+
+2019-06-05 00:27:35,198 INFO check db health.
+
+2019-06-05 00:27:42,433 INFO check master db.
+
+2019-06-05 00:27:45,201 INFO check db health.
+
+2019-06-05 00:27:52,434 INFO check master db.
+
+2019-06-05 00:27:55,203 INFO check db health.
+
+2019-06-05 00:28:02,435 INFO check master db.
+
+2019-06-05 00:28:05,206 INFO check db health.
+
+2019-06-05 00:28:12,437 INFO check master db.
+
+2019-06-05 00:28:15,209 INFO check db health.
+
+2019-06-05 00:28:22,439 INFO check master db.
+
+2019-06-05 00:28:25,212 INFO check db health.
+
+2019-06-05 00:28:32,440 INFO check master db.
+
+2019-06-05 00:28:35,216 INFO check db health.
+
+2019-06-05 00:28:42,442 INFO check master db.
+
+2019-06-05 00:28:45,221 INFO check db health.
+
+2019-06-05 00:28:52,444 INFO check master db.
+
+2019-06-05 00:28:55,224 INFO check db health.
+
+2019-06-05 00:29:02,445 INFO check master db.
+
+2019-06-05 00:29:05,227 INFO check db health.
+
+2019-06-05 00:29:12,447 INFO check master db.
+
+2019-06-05 00:29:15,229 INFO check db health.
+
+2019-06-05 00:29:22,449 INFO check master db.
+
+2019-06-05 00:29:25,232 INFO check db health.
+
+2019-06-05 00:29:32,450 INFO check master db.
+
+2019-06-05 00:29:35,236 INFO check db health.
+
+2019-06-05 00:29:42,452 INFO check master db.
+
+2019-06-05 00:29:45,239 INFO check db health.
+
+2019-06-05 00:29:52,454 INFO check master db.
+
+2019-06-05 00:29:55,242 INFO check db health.
+
+2019-06-05 00:30:02,456 INFO check master db.
+
+2019-06-05 00:30:05,245 INFO check db health.
+
+2019-06-05 00:30:12,457 INFO check master db.
+
+2019-06-05 00:30:15,251 INFO check db health.
+
+2019-06-05 00:30:22,458 INFO check master db.
+
+2019-06-05 00:30:25,254 INFO check db health.
+
+2019-06-05 00:30:32,459 INFO check master db.
+
+2019-06-05 00:30:35,255 INFO check db health.
+
+2019-06-05 00:30:42,461 INFO check master db.
+
+2019-06-05 00:30:45,259 INFO check db health.
+
+2019-06-05 00:30:52,463 INFO check master db.
+
+2019-06-05 00:30:55,260 INFO check db health.
+
+2019-06-05 00:31:02,464 INFO check master db.
+
+2019-06-05 00:31:05,263 INFO check db health.
+
+2019-06-05 00:31:12,466 INFO check master db.
+
+2019-06-05 00:31:15,266 INFO check db health.
+
+2019-06-05 00:31:22,467 INFO check master db.
+
+2019-06-05 00:31:25,269 INFO check db health.
+
+2019-06-05 00:31:32,469 INFO check master db.
+
+2019-06-05 00:31:35,273 INFO check db health.
+
+2019-06-05 00:31:42,471 INFO check master db.
+
+2019-06-05 00:31:45,278 INFO check db health.
+
+2019-06-05 00:31:52,472 INFO check master db.
+
+2019-06-05 00:31:55,280 INFO check db health.
+
+2019-06-05 00:32:02,474 INFO check master db.
+
+2019-06-05 00:32:05,283 INFO check db health.
+
+2019-06-05 00:32:12,476 INFO check master db.
+
+2019-06-05 00:32:15,287 INFO check db health.
+
+2019-06-05 00:32:22,478 INFO check master db.
+
+2019-06-05 00:32:25,290 INFO check db health.
+
+2019-06-05 00:32:32,479 INFO check master db.
+
+2019-06-05 00:32:35,293 INFO check db health.
+
+2019-06-05 00:32:42,481 INFO check master db.
+
+2019-06-05 00:32:45,296 INFO check db health.
+
+2019-06-05 00:32:52,482 INFO check master db.
+
+2019-06-05 00:32:55,297 INFO check db health.
+
+2019-06-05 00:33:02,483 INFO check master db.
+
+2019-06-05 00:33:05,300 INFO check db health.
+
+2019-06-05 00:33:12,484 INFO check master db.
+
+2019-06-05 00:33:15,303 INFO check db health.
+
+2019-06-05 00:33:22,486 INFO check master db.
+
+2019-06-05 00:33:25,304 INFO check db health.
+
+2019-06-05 00:33:32,486 INFO check master db.
+
+2019-06-05 00:33:35,306 INFO check db health.
+
+2019-06-05 00:33:42,487 INFO check master db.
+
+2019-06-05 00:33:45,307 INFO check db health.
+
+2019-06-05 00:33:52,489 INFO check master db.
+
+2019-06-05 00:33:55,309 INFO check db health.
+
+2019-06-05 00:34:02,491 INFO check master db.
+
+2019-06-05 00:34:05,312 INFO check db health.
+
+2019-06-05 00:34:12,493 INFO check master db.
+
+2019-06-05 00:34:15,315 INFO check db health.
+
+2019-06-05 00:34:22,494 INFO check master db.
+
+2019-06-05 00:34:25,318 INFO check db health.
+
+2019-06-05 00:34:32,496 INFO check master db.
+
+2019-06-05 00:34:35,321 INFO check db health.
+
+2019-06-05 00:34:42,497 INFO check master db.
+
+2019-06-05 00:34:45,328 INFO check db health.
+
+2019-06-05 00:34:52,498 INFO check master db.
+
+2019-06-05 00:34:55,331 INFO check db health.
+
+2019-06-05 00:35:02,499 INFO check master db.
+
+2019-06-05 00:35:05,334 INFO check db health.
+
+2019-06-05 00:35:12,501 INFO check master db.
+
+2019-06-05 00:35:15,337 INFO check db health.
+
+2019-06-05 00:35:22,503 INFO check master db.
+
+2019-06-05 00:35:25,340 INFO check db health.
+
+2019-06-05 00:35:32,505 INFO check master db.
+
+2019-06-05 00:35:35,343 INFO check db health.
+
+2019-06-05 00:35:42,506 INFO check master db.
+
+2019-06-05 00:35:45,347 INFO check db health.
+
+2019-06-05 00:35:52,507 INFO check master db.
+
+2019-06-05 00:35:55,350 INFO check db health.
+
+2019-06-05 00:36:02,509 INFO check master db.
+
+2019-06-05 00:36:05,353 INFO check db health.
+
+2019-06-05 00:36:12,510 INFO check master db.
+
+2019-06-05 00:36:15,359 INFO check db health.
+
+2019-06-05 00:36:22,511 INFO check master db.
+
+2019-06-05 00:36:25,362 INFO check db health.
+
+2019-06-05 00:36:32,512 INFO check master db.
+
+2019-06-05 00:36:35,365 INFO check db health.
+
+2019-06-05 00:36:42,514 INFO check master db.
+
+2019-06-05 00:36:45,368 INFO check db health.
+
+2019-06-05 00:36:52,516 INFO check master db.
+
+2019-06-05 00:36:55,371 INFO check db health.
+
+2019-06-05 00:37:02,517 INFO check master db.
+
+2019-06-05 00:37:05,373 INFO check db health.
+
+2019-06-05 00:37:12,519 INFO check master db.
+
+2019-06-05 00:37:15,375 INFO check db health.
+
+2019-06-05 00:37:22,521 INFO check master db.
+
+2019-06-05 00:37:25,378 INFO check db health.
+
+2019-06-05 00:37:32,522 INFO check master db.
+
+2019-06-05 00:37:35,381 INFO check db health.
+
+2019-06-05 00:37:42,524 INFO check master db.
+
+2019-06-05 00:37:45,387 INFO check db health.
+
+2019-06-05 00:37:52,525 INFO check master db.
+
+2019-06-05 00:37:55,391 INFO check db health.
+
+2019-06-05 00:38:02,525 INFO check master db.
+
+2019-06-05 00:38:05,393 INFO check db health.
+
+2019-06-05 00:38:12,526 INFO check master db.
+
+2019-06-05 00:38:15,395 INFO check db health.
+
+2019-06-05 00:38:22,528 INFO check master db.
+
+2019-06-05 00:38:25,397 INFO check db health.
+
+2019-06-05 00:38:32,529 INFO check master db.
+
+2019-06-05 00:38:35,398 INFO check db health.
+
+2019-06-05 00:38:42,531 INFO check master db.
+
+2019-06-05 00:38:45,401 INFO check db health.
+
+2019-06-05 00:38:52,533 INFO check master db.
+
+2019-06-05 00:38:55,405 INFO check db health.
+
+2019-06-05 00:39:02,534 INFO check master db.
+
+2019-06-05 00:39:05,407 INFO check db health.
+
+2019-06-05 00:39:12,535 INFO check master db.
+
+2019-06-05 00:39:15,413 INFO check db health.
+
+2019-06-05 00:39:22,537 INFO check master db.
+
+2019-06-05 00:39:25,416 INFO check db health.
+
+2019-06-05 00:39:32,539 INFO check master db.
+
+2019-06-05 00:39:35,418 INFO check db health.
+
+2019-06-05 00:39:42,540 INFO check master db.
+
+2019-06-05 00:39:45,419 INFO check db health.
+
+2019-06-05 00:39:52,540 INFO check master db.
+
+2019-06-05 00:39:55,422 INFO check db health.
+
+2019-06-05 00:40:02,541 INFO check master db.
+
+2019-06-05 00:40:05,423 INFO check db health.
+
+2019-06-05 00:40:12,542 INFO check master db.
+
+2019-06-05 00:40:15,425 INFO check db health.
+
+2019-06-05 00:40:22,543 INFO check master db.
+
+2019-06-05 00:40:25,428 INFO check db health.
+
+2019-06-05 00:40:32,544 INFO check master db.
+
+2019-06-05 00:40:35,429 INFO check db health.
+
+2019-06-05 00:40:42,546 INFO check master db.
+
+2019-06-05 00:40:45,431 INFO check db health.
+
+2019-06-05 00:40:52,547 INFO check master db.
+
+2019-06-05 00:40:55,435 INFO check db health.
+
+2019-06-05 00:41:02,549 INFO check master db.
+
+2019-06-05 00:41:05,438 INFO check db health.
+
+2019-06-05 00:41:12,550 INFO check master db.
+
+2019-06-05 00:41:15,442 INFO check db health.
+
+2019-06-05 00:41:22,551 INFO check master db.
+
+2019-06-05 00:41:25,445 INFO check db health.
+
+2019-06-05 00:41:32,553 INFO check master db.
+
+2019-06-05 00:41:35,448 INFO check db health.
+
+2019-06-05 00:41:42,554 INFO check master db.
+
+2019-06-05 00:41:45,451 INFO check db health.
+
+2019-06-05 00:41:52,556 INFO check master db.
+
+2019-06-05 00:41:55,455 INFO check db health.
+
+2019-06-05 00:42:02,557 INFO check master db.
+
+2019-06-05 00:42:05,458 INFO check db health.
+
+2019-06-05 00:42:12,558 INFO check master db.
+
+2019-06-05 00:42:15,463 INFO check db health.
+
+2019-06-05 00:42:22,559 INFO check master db.
+
+2019-06-05 00:42:25,464 INFO check db health.
+
+2019-06-05 00:42:32,561 INFO check master db.
+
+2019-06-05 00:42:35,467 INFO check db health.
+
+2019-06-05 00:42:42,562 INFO check master db.
+
+2019-06-05 00:42:45,468 INFO check db health.
+
+2019-06-05 00:42:52,563 INFO check master db.
+
+2019-06-05 00:42:55,470 INFO check db health.
+
+2019-06-05 00:43:02,564 INFO check master db.
+
+2019-06-05 00:43:05,471 INFO check db health.
+
+2019-06-05 00:43:12,566 INFO check master db.
+
+2019-06-05 00:43:15,473 INFO check db health.
+
+2019-06-05 00:43:22,567 INFO check master db.
+
+2019-06-05 00:43:25,476 INFO check db health.
+
+2019-06-05 00:43:32,569 INFO check master db.
+
+2019-06-05 00:43:35,478 INFO check db health.
+
+2019-06-05 00:43:42,570 INFO check master db.
+
+2019-06-05 00:43:45,479 INFO check db health.
+
+2019-06-05 00:43:52,570 INFO check master db.
+
+2019-06-05 00:43:55,481 INFO check db health.
+
+2019-06-05 00:44:02,571 INFO check master db.
+
+2019-06-05 00:44:05,482 INFO check db health.
+
+2019-06-05 00:44:12,572 INFO check master db.
+
+2019-06-05 00:44:15,484 INFO check db health.
+
+2019-06-05 00:44:22,573 INFO check master db.
+
+2019-06-05 00:44:25,485 INFO check db health.
+
+2019-06-05 00:44:32,574 INFO check master db.
+
+2019-06-05 00:44:35,487 INFO check db health.
+
+2019-06-05 00:44:42,575 INFO check master db.
+
+2019-06-05 00:44:45,488 INFO check db health.
+
+2019-06-05 00:44:52,576 INFO check master db.
+
+2019-06-05 00:44:55,489 INFO check db health.
+
+2019-06-05 00:45:02,577 INFO check master db.
+
+2019-06-05 00:45:05,490 INFO check db health.
+
+2019-06-05 00:45:12,579 INFO check master db.
+
+2019-06-05 00:45:15,494 INFO check db health.
+
+2019-06-05 00:45:22,580 INFO check master db.
+
+2019-06-05 00:45:25,496 INFO check db health.
+
+2019-06-05 00:45:32,581 INFO check master db.
+
+2019-06-05 00:45:35,498 INFO check db health.
+
+2019-06-05 00:45:42,583 INFO check master db.
+
+2019-06-05 00:45:45,499 INFO check db health.
+
+2019-06-05 00:45:52,584 INFO check master db.
+
+2019-06-05 00:45:55,502 INFO check db health.
+
+2019-06-05 00:46:02,585 INFO check master db.
+
+2019-06-05 00:46:05,504 INFO check db health.
+
+2019-06-05 00:46:12,586 INFO check master db.
+
+2019-06-05 00:46:15,506 INFO check db health.
+
+2019-06-05 00:46:22,588 INFO check master db.
+
+2019-06-05 00:46:25,509 INFO check db health.
+
+2019-06-05 00:46:32,591 INFO check master db.
+
+2019-06-05 00:46:35,512 INFO check db health.
+
+2019-06-05 00:46:42,592 INFO check master db.
+
+2019-06-05 00:46:45,516 INFO check db health.
+
+2019-06-05 00:46:52,593 INFO check master db.
+
+2019-06-05 00:46:55,519 INFO check db health.
+
+2019-06-05 00:47:02,594 INFO check master db.
+
+2019-06-05 00:47:05,522 INFO check db health.
+
+2019-06-05 00:47:12,596 INFO check master db.
+
+2019-06-05 00:47:15,525 INFO check db health.
+
+2019-06-05 00:47:22,598 INFO check master db.
+
+2019-06-05 00:47:25,528 INFO check db health.
+
+2019-06-05 00:47:32,600 INFO check master db.
+
+2019-06-05 00:47:35,529 INFO check db health.
+
+2019-06-05 00:47:42,601 INFO check master db.
+
+2019-06-05 00:47:45,532 INFO check db health.
+
+2019-06-05 00:47:52,603 INFO check master db.
+
+2019-06-05 00:47:55,536 INFO check db health.
+
+2019-06-05 00:48:02,605 INFO check master db.
+
+2019-06-05 00:48:05,540 INFO check db health.
+
+2019-06-05 00:48:12,607 INFO check master db.
+
+2019-06-05 00:48:15,542 INFO check db health.
+
+2019-06-05 00:48:22,609 INFO check master db.
+
+2019-06-05 00:48:25,545 INFO check db health.
+
+2019-06-05 00:48:32,610 INFO check master db.
+
+2019-06-05 00:48:35,546 INFO check db health.
+
+2019-06-05 00:48:42,612 INFO check master db.
+
+2019-06-05 00:48:45,548 INFO check db health.
+
+2019-06-05 00:48:52,614 INFO check master db.
+
+2019-06-05 00:48:55,551 INFO check db health.
+
+2019-06-05 00:49:02,616 INFO check master db.
+
+2019-06-05 00:49:05,553 INFO check db health.
+
+2019-06-05 00:49:12,618 INFO check master db.
+
+2019-06-05 00:49:15,555 INFO check db health.
+
+2019-06-05 00:49:22,619 INFO check master db.
+
+2019-06-05 00:49:25,557 INFO check db health.
+
+2019-06-05 00:49:32,622 INFO check master db.
+
+2019-06-05 00:49:35,562 INFO check db health.
+
+2019-06-05 00:49:42,624 INFO check master db.
+
+2019-06-05 00:49:45,564 INFO check db health.
+
+2019-06-05 00:49:52,626 INFO check master db.
+
+2019-06-05 00:49:55,567 INFO check db health.
+
+2019-06-05 00:50:02,628 INFO check master db.
+
+2019-06-05 00:50:05,569 INFO check db health.
+
+2019-06-05 00:50:12,629 INFO check master db.
+
+2019-06-05 00:50:15,572 INFO check db health.
+
+2019-06-05 00:50:22,630 INFO check master db.
+
+2019-06-05 00:50:25,574 INFO check db health.
+
+2019-06-05 00:50:32,631 INFO check master db.
+
+2019-06-05 00:50:35,577 INFO check db health.
+
+2019-06-05 00:50:42,632 INFO check master db.
+
+2019-06-05 00:50:45,580 INFO check db health.
+
+2019-06-05 00:50:52,633 INFO check master db.
+
+2019-06-05 00:50:55,582 INFO check db health.
+
+2019-06-05 00:51:02,634 INFO check master db.
+
+2019-06-05 00:51:05,588 INFO check db health.
+
+2019-06-05 00:51:12,635 INFO check master db.
+
+2019-06-05 00:51:15,593 INFO check db health.
+
+2019-06-05 00:51:22,636 INFO check master db.
+
+2019-06-05 00:51:25,595 INFO check db health.
+
+2019-06-05 00:51:32,638 INFO check master db.
+
+2019-06-05 00:51:35,597 INFO check db health.
+
+2019-06-05 00:51:42,638 INFO check master db.
+
+2019-06-05 00:51:45,599 INFO check db health.
+
+2019-06-05 00:51:52,639 INFO check master db.
+
+2019-06-05 00:51:55,601 INFO check db health.
+
+2019-06-05 00:52:02,641 INFO check master db.
+
+2019-06-05 00:52:05,603 INFO check db health.
+
+2019-06-05 00:52:12,643 INFO check master db.
+
+2019-06-05 00:52:15,604 INFO check db health.
+
+2019-06-05 00:52:22,644 INFO check master db.
+
+2019-06-05 00:52:25,606 INFO check db health.
+
+2019-06-05 00:52:32,645 INFO check master db.
+
+2019-06-05 00:52:35,609 INFO check db health.
+
+2019-06-05 00:52:42,646 INFO check master db.
+
+2019-06-05 00:52:45,611 INFO check db health.
+
+2019-06-05 00:52:52,647 INFO check master db.
+
+2019-06-05 00:52:55,613 INFO check db health.
+
+2019-06-05 00:53:02,649 INFO check master db.
+
+2019-06-05 00:53:05,615 INFO check db health.
+
+2019-06-05 00:53:12,650 INFO check master db.
+
+2019-06-05 00:53:15,616 INFO check db health.
+
+2019-06-05 00:53:22,651 INFO check master db.
+
+2019-06-05 00:53:25,619 INFO check db health.
+
+2019-06-05 00:53:32,652 INFO check master db.
+
+2019-06-05 00:53:35,621 INFO check db health.
+
+2019-06-05 00:53:42,653 INFO check master db.
+
+2019-06-05 00:53:45,623 INFO check db health.
+
+2019-06-05 00:53:52,654 INFO check master db.
+
+2019-06-05 00:53:55,626 INFO check db health.
+
+2019-06-05 00:54:02,656 INFO check master db.
+
+2019-06-05 00:54:05,629 INFO check db health.
+
+2019-06-05 00:54:12,657 INFO check master db.
+
+2019-06-05 00:54:15,631 INFO check db health.
+
+2019-06-05 00:54:22,658 INFO check master db.
+
+2019-06-05 00:54:25,633 INFO check db health.
+
+2019-06-05 00:54:32,659 INFO check master db.
+
+2019-06-05 00:54:35,634 INFO check db health.
+
+2019-06-05 00:54:42,661 INFO check master db.
+
+2019-06-05 00:54:45,635 INFO check db health.
+
+2019-06-05 00:54:52,662 INFO check master db.
+
+2019-06-05 00:54:55,637 INFO check db health.
+
+2019-06-05 00:55:02,664 INFO check master db.
+
+2019-06-05 00:55:05,638 INFO check db health.
+
+2019-06-05 00:55:12,665 INFO check master db.
+
+2019-06-05 00:55:15,640 INFO check db health.
+
+2019-06-05 00:55:22,667 INFO check master db.
+
+2019-06-05 00:55:25,642 INFO check db health.
+
+2019-06-05 00:55:32,669 INFO check master db.
+
+2019-06-05 00:55:35,646 INFO check db health.
+
+2019-06-05 00:55:42,670 INFO check master db.
+
+2019-06-05 00:55:45,647 INFO check db health.
+
+2019-06-05 00:55:52,671 INFO check master db.
+
+2019-06-05 00:55:55,649 INFO check db health.
+
+2019-06-05 00:56:02,673 INFO check master db.
+
+2019-06-05 00:56:05,652 INFO check db health.
+
+2019-06-05 00:56:12,674 INFO check master db.
+
+2019-06-05 00:56:15,654 INFO check db health.
+
+2019-06-05 00:56:22,675 INFO check master db.
+
+2019-06-05 00:56:25,655 INFO check db health.
+
+2019-06-05 00:56:32,677 INFO check master db.
+
+2019-06-05 00:56:35,658 INFO check db health.
+
+2019-06-05 00:56:42,678 INFO check master db.
+
+2019-06-05 00:56:45,659 INFO check db health.
+
+2019-06-05 00:56:52,680 INFO check master db.
+
+2019-06-05 00:56:55,661 INFO check db health.
+
+2019-06-05 00:57:02,682 INFO check master db.
+
+2019-06-05 00:57:05,664 INFO check db health.
+
+2019-06-05 00:57:12,683 INFO check master db.
+
+2019-06-05 00:57:15,666 INFO check db health.
+
+2019-06-05 00:57:22,684 INFO check master db.
+
+2019-06-05 00:57:25,669 INFO check db health.
+
+2019-06-05 00:57:32,685 INFO check master db.
+
+2019-06-05 00:57:35,672 INFO check db health.
+
+2019-06-05 00:57:42,687 INFO check master db.
+
+2019-06-05 00:57:45,674 INFO check db health.
+
+2019-06-05 00:57:52,688 INFO check master db.
+
+2019-06-05 00:57:55,675 INFO check db health.
+
+2019-06-05 00:58:02,690 INFO check master db.
+
+2019-06-05 00:58:05,679 INFO check db health.
+
+2019-06-05 00:58:12,692 INFO check master db.
+
+2019-06-05 00:58:15,680 INFO check db health.
+
+2019-06-05 00:58:22,693 INFO check master db.
+
+2019-06-05 00:58:25,683 INFO check db health.
+
+2019-06-05 00:58:32,694 INFO check master db.
+
+2019-06-05 00:58:35,687 INFO check db health.
+
+2019-06-05 00:58:42,696 INFO check master db.
+
+2019-06-05 00:58:45,689 INFO check db health.
+
+2019-06-05 00:58:52,698 INFO check master db.
+
+2019-06-05 00:58:55,692 INFO check db health.
+
+2019-06-05 00:59:02,699 INFO check master db.
+
+2019-06-05 00:59:05,694 INFO check db health.
+
+2019-06-05 00:59:12,701 INFO check master db.
+
+2019-06-05 00:59:15,698 INFO check db health.
+
+2019-06-05 00:59:22,703 INFO check master db.
+
+2019-06-05 00:59:25,700 INFO check db health.
+
+2019-06-05 00:59:32,704 INFO check master db.
+
+2019-06-05 00:59:35,702 INFO check db health.
+
+2019-06-05 00:59:42,706 INFO check master db.
+
+2019-06-05 00:59:45,704 INFO check db health.
+
+2019-06-05 00:59:52,708 INFO check master db.
+
+2019-06-05 00:59:55,709 INFO check db health.
+
+2019-06-05 01:00:02,710 INFO check master db.
+
+2019-06-05 01:00:05,711 INFO check db health.
+
+2019-06-05 01:00:12,711 INFO check master db.
+
+2019-06-05 01:00:15,714 INFO check db health.
+
+2019-06-05 01:00:22,713 INFO check master db.
+
+2019-06-05 01:00:25,716 INFO check db health.
+
+2019-06-05 01:00:32,715 INFO check master db.
+
+2019-06-05 01:00:35,720 INFO check db health.
+
+2019-06-05 01:00:42,717 INFO check master db.
+
+2019-06-05 01:00:45,723 INFO check db health.
+
+2019-06-05 01:00:52,719 INFO check master db.
+
+2019-06-05 01:00:55,725 INFO check db health.
+
+2019-06-05 01:01:02,720 INFO check master db.
+
+2019-06-05 01:01:05,729 INFO check db health.
+
+2019-06-05 01:01:12,722 INFO check master db.
+
+2019-06-05 01:01:15,731 INFO check db health.
+
+2019-06-05 01:01:22,724 INFO check master db.
+
+2019-06-05 01:01:25,737 INFO check db health.
+
+2019-06-05 01:01:32,725 INFO check master db.
+
+2019-06-05 01:01:35,741 INFO check db health.
+
+2019-06-05 01:01:42,726 INFO check master db.
+
+2019-06-05 01:01:45,744 INFO check db health.
+
+2019-06-05 01:01:52,728 INFO check master db.
+
+2019-06-05 01:01:55,747 INFO check db health.
+
+2019-06-05 01:02:02,730 INFO check master db.
+
+2019-06-05 01:02:05,749 INFO check db health.
+
+2019-06-05 01:02:12,732 INFO check master db.
+
+2019-06-05 01:02:15,750 INFO check db health.
+
+2019-06-05 01:02:22,734 INFO check master db.
+
+2019-06-05 01:02:25,753 INFO check db health.
+
+2019-06-05 01:02:32,736 INFO check master db.
+
+2019-06-05 01:02:35,756 INFO check db health.
+
+2019-06-05 01:02:42,737 INFO check master db.
+
+2019-06-05 01:02:45,757 INFO check db health.
+
+2019-06-05 01:02:52,739 INFO check master db.
+
+2019-06-05 01:02:55,763 INFO check db health.
+
+2019-06-05 01:03:02,741 INFO check master db.
+
+2019-06-05 01:03:05,766 INFO check db health.
+
+2019-06-05 01:03:12,742 INFO check master db.
+
+2019-06-05 01:03:15,769 INFO check db health.
+
+2019-06-05 01:03:22,744 INFO check master db.
+
+2019-06-05 01:03:25,773 INFO check db health.
+
+2019-06-05 01:03:32,746 INFO check master db.
+
+2019-06-05 01:03:35,775 INFO check db health.
+
+2019-06-05 01:03:42,747 INFO check master db.
+
+2019-06-05 01:03:45,778 INFO check db health.
+
+2019-06-05 01:03:52,748 INFO check master db.
+
+2019-06-05 01:03:55,781 INFO check db health.
+
+2019-06-05 01:04:02,750 INFO check master db.
+
+2019-06-05 01:04:05,784 INFO check db health.
+
+2019-06-05 01:04:12,751 INFO check master db.
+
+2019-06-05 01:04:15,786 INFO check db health.
+
+2019-06-05 01:04:22,753 INFO check master db.
+
+2019-06-05 01:04:25,791 INFO check db health.
+
+2019-06-05 01:04:32,754 INFO check master db.
+
+2019-06-05 01:04:35,794 INFO check db health.
+
+2019-06-05 01:04:42,755 INFO check master db.
+
+2019-06-05 01:04:45,797 INFO check db health.
+
+2019-06-05 01:04:52,756 INFO check master db.
+
+2019-06-05 01:04:55,800 INFO check db health.
+
+2019-06-05 01:05:02,758 INFO check master db.
+
+2019-06-05 01:05:05,803 INFO check db health.
+
+2019-06-05 01:05:12,759 INFO check master db.
+
+2019-06-05 01:05:15,806 INFO check db health.
+
+2019-06-05 01:05:22,761 INFO check master db.
+
+2019-06-05 01:05:25,810 INFO check db health.
+
+2019-06-05 01:05:32,762 INFO check master db.
+
+2019-06-05 01:05:35,813 INFO check db health.
+
+2019-06-05 01:05:42,764 INFO check master db.
+
+2019-06-05 01:05:45,816 INFO check db health.
+
+2019-06-05 01:05:52,766 INFO check master db.
+
+2019-06-05 01:05:55,822 INFO check db health.
+
+2019-06-05 01:06:02,767 INFO check master db.
+
+2019-06-05 01:06:05,823 INFO check db health.
+
+2019-06-05 01:06:12,767 INFO check master db.
+
+2019-06-05 01:06:15,824 INFO check db health.
+
+2019-06-05 01:06:22,768 INFO check master db.
+
+2019-06-05 01:06:25,825 INFO check db health.
+
+2019-06-05 01:06:32,770 INFO check master db.
+
+2019-06-05 01:06:35,827 INFO check db health.
+
+2019-06-05 01:06:42,771 INFO check master db.
+
+2019-06-05 01:06:45,830 INFO check db health.
+
+2019-06-05 01:06:52,772 INFO check master db.
+
+2019-06-05 01:06:55,833 INFO check db health.
+
+2019-06-05 01:07:02,773 INFO check master db.
+
+2019-06-05 01:07:05,836 INFO check db health.
+
+2019-06-05 01:07:12,775 INFO check master db.
+
+2019-06-05 01:07:15,839 INFO check db health.
+
+2019-06-05 01:07:22,777 INFO check master db.
+
+2019-06-05 01:07:25,845 INFO check db health.
+
+2019-06-05 01:07:32,779 INFO check master db.
+
+2019-06-05 01:07:35,848 INFO check db health.
+
+2019-06-05 01:07:42,780 INFO check master db.
+
+2019-06-05 01:07:45,851 INFO check db health.
+
+2019-06-05 01:07:52,782 INFO check master db.
+
+2019-06-05 01:07:55,854 INFO check db health.
+
+2019-06-05 01:08:02,784 INFO check master db.
+
+2019-06-05 01:08:05,858 INFO check db health.
+
+2019-06-05 01:08:12,786 INFO check master db.
+
+2019-06-05 01:08:15,859 INFO check db health.
+
+2019-06-05 01:08:22,787 INFO check master db.
+
+2019-06-05 01:08:25,862 INFO check db health.
+
+2019-06-05 01:08:32,788 INFO check master db.
+
+2019-06-05 01:08:35,865 INFO check db health.
+
+2019-06-05 01:08:42,790 INFO check master db.
+
+2019-06-05 01:08:45,871 INFO check db health.
+
+2019-06-05 01:08:52,792 INFO check master db.
+
+2019-06-05 01:08:55,874 INFO check db health.
+
+2019-06-05 01:09:02,793 INFO check master db.
+
+2019-06-05 01:09:05,878 INFO check db health.
+
+2019-06-05 01:09:12,795 INFO check master db.
+
+2019-06-05 01:09:15,881 INFO check db health.
+
+2019-06-05 01:09:22,797 INFO check master db.
+
+2019-06-05 01:09:25,884 INFO check db health.
+
+2019-06-05 01:09:32,799 INFO check master db.
+
+2019-06-05 01:09:35,887 INFO check db health.
+
+2019-06-05 01:09:42,801 INFO check master db.
+
+2019-06-05 01:09:45,890 INFO check db health.
+
+2019-06-05 01:09:52,803 INFO check master db.
+
+2019-06-05 01:09:55,893 INFO check db health.
+
+2019-06-05 01:10:02,804 INFO check master db.
+
+2019-06-05 01:10:05,895 INFO check db health.
+
+2019-06-05 01:10:12,805 INFO check master db.
+
+2019-06-05 01:10:15,900 INFO check db health.
+
+2019-06-05 01:10:22,806 INFO check master db.
+
+2019-06-05 01:10:25,904 INFO check db health.
+
+2019-06-05 01:10:32,808 INFO check master db.
+
+2019-06-05 01:10:35,907 INFO check db health.
+
+2019-06-05 01:10:42,809 INFO check master db.
+
+2019-06-05 01:10:45,910 INFO check db health.
+
+2019-06-05 01:10:52,811 INFO check master db.
+
+2019-06-05 01:10:55,913 INFO check db health.
+
+2019-06-05 01:11:02,813 INFO check master db.
+
+2019-06-05 01:11:05,916 INFO check db health.
+
+2019-06-05 01:11:12,814 INFO check master db.
+
+2019-06-05 01:11:15,920 INFO check db health.
+
+2019-06-05 01:11:22,816 INFO check master db.
+
+2019-06-05 01:11:25,923 INFO check db health.
+
+2019-06-05 01:11:32,818 INFO check master db.
+
+2019-06-05 01:11:35,926 INFO check db health.
+
+2019-06-05 01:11:42,819 INFO check master db.
+
+2019-06-05 01:11:45,929 INFO check db health.
+
+2019-06-05 01:11:52,820 INFO check master db.
+
+2019-06-05 01:11:55,930 INFO check db health.
+
+2019-06-05 01:12:02,821 INFO check master db.
+
+2019-06-05 01:12:05,933 INFO check db health.
+
+2019-06-05 01:12:12,822 INFO check master db.
+
+2019-06-05 01:12:15,936 INFO check db health.
+
+2019-06-05 01:12:22,824 INFO check master db.
+
+2019-06-05 01:12:25,937 INFO check db health.
+
+2019-06-05 01:12:32,825 INFO check master db.
+
+2019-06-05 01:12:35,940 INFO check db health.
+
+2019-06-05 01:12:42,826 INFO check master db.
+
+2019-06-05 01:12:45,943 INFO check db health.
+
+2019-06-05 01:12:52,828 INFO check master db.
+
+2019-06-05 01:12:55,946 INFO check db health.
+
+2019-06-05 01:13:02,829 INFO check master db.
+
+2019-06-05 01:13:05,947 INFO check db health.
+
+2019-06-05 01:13:12,830 INFO check master db.
+
+2019-06-05 01:13:15,951 INFO check db health.
+
+2019-06-05 01:13:22,832 INFO check master db.
+
+2019-06-05 01:13:25,953 INFO check db health.
+
+2019-06-05 01:13:32,834 INFO check master db.
+
+2019-06-05 01:13:35,956 INFO check db health.
+
+2019-06-05 01:13:42,836 INFO check master db.
+
+2019-06-05 01:13:45,958 INFO check db health.
+
+2019-06-05 01:13:52,838 INFO check master db.
+
+2019-06-05 01:13:55,962 INFO check db health.
+
+2019-06-05 01:14:02,839 INFO check master db.
+
+2019-06-05 01:14:05,965 INFO check db health.
+
+2019-06-05 01:14:12,841 INFO check master db.
+
+2019-06-05 01:14:15,968 INFO check db health.
+
+2019-06-05 01:14:22,843 INFO check master db.
+
+2019-06-05 01:14:25,971 INFO check db health.
+
+2019-06-05 01:14:32,845 INFO check master db.
+
+2019-06-05 01:14:35,974 INFO check db health.
+
+2019-06-05 01:14:42,846 INFO check master db.
+
+2019-06-05 01:14:45,980 INFO check db health.
+
+2019-06-05 01:14:52,848 INFO check master db.
+
+2019-06-05 01:14:55,983 INFO check db health.
+
+2019-06-05 01:15:02,850 INFO check master db.
+
+2019-06-05 01:15:05,986 INFO check db health.
+
+2019-06-05 01:15:12,851 INFO check master db.
+
+2019-06-05 01:15:15,989 INFO check db health.
+
+2019-06-05 01:15:22,852 INFO check master db.
+
+2019-06-05 01:15:25,992 INFO check db health.
+
+2019-06-05 01:15:32,853 INFO check master db.
+
+2019-06-05 01:15:35,995 INFO check db health.
+
+2019-06-05 01:15:42,855 INFO check master db.
+
+2019-06-05 01:15:45,998 INFO check db health.
+
+2019-06-05 01:15:52,856 INFO check master db.
+
+2019-06-05 01:15:56,002 INFO check db health.
+
+2019-06-05 01:16:02,858 INFO check master db.
+
+2019-06-05 01:16:06,005 INFO check db health.
+
+2019-06-05 01:16:12,860 INFO check master db.
+
+2019-06-05 01:16:16,010 INFO check db health.
+
+2019-06-05 01:16:22,862 INFO check master db.
+
+2019-06-05 01:16:26,013 INFO check db health.
+
+2019-06-05 01:16:32,863 INFO check master db.
+
+2019-06-05 01:16:36,016 INFO check db health.
+
+2019-06-05 01:16:42,865 INFO check master db.
+
+2019-06-05 01:16:46,020 INFO check db health.
+
+2019-06-05 01:16:52,867 INFO check master db.
+
+2019-06-05 01:16:56,023 INFO check db health.
+
+2019-06-05 01:17:02,869 INFO check master db.
+
+2019-06-05 01:17:06,026 INFO check db health.
+
+2019-06-05 01:17:12,871 INFO check master db.
+
+2019-06-05 01:17:16,029 INFO check db health.
+
+2019-06-05 01:17:22,873 INFO check master db.
+
+2019-06-05 01:17:26,031 INFO check db health.
+
+2019-06-05 01:17:32,874 INFO check master db.
+
+2019-06-05 01:17:36,034 INFO check db health.
+
+2019-06-05 01:17:42,876 INFO check master db.
+
+2019-06-05 01:17:46,037 INFO check db health.
+
+2019-06-05 01:17:52,877 INFO check master db.
+
+2019-06-05 01:17:56,040 INFO check db health.
+
+2019-06-05 01:18:02,879 INFO check master db.
+
+2019-06-05 01:18:06,043 INFO check db health.
+
+2019-06-05 01:18:12,881 INFO check master db.
+
+2019-06-05 01:18:16,044 INFO check db health.
+
+2019-06-05 01:18:22,883 INFO check master db.
+
+2019-06-05 01:18:26,047 INFO check db health.
+
+2019-06-05 01:18:32,884 INFO check master db.
+
+2019-06-05 01:18:36,051 INFO check db health.
+
+2019-06-05 01:18:42,886 INFO check master db.
+
+2019-06-05 01:18:46,054 INFO check db health.
+
+2019-06-05 01:18:52,887 INFO check master db.
+
+2019-06-05 01:18:56,057 INFO check db health.
+
+2019-06-05 01:19:02,889 INFO check master db.
+
+2019-06-05 01:19:06,061 INFO check db health.
+
+2019-06-05 01:19:12,891 INFO check master db.
+
+2019-06-05 01:19:16,066 INFO check db health.
+
+2019-06-05 01:19:22,892 INFO check master db.
+
+2019-06-05 01:19:26,069 INFO check db health.
+
+2019-06-05 01:19:32,894 INFO check master db.
+
+2019-06-05 01:19:36,072 INFO check db health.
+
+2019-06-05 01:19:42,896 INFO check master db.
+
+2019-06-05 01:19:46,075 INFO check db health.
+
+2019-06-05 01:19:52,898 INFO check master db.
+
+2019-06-05 01:19:56,078 INFO check db health.
+
+2019-06-05 01:20:02,900 INFO check master db.
+
+2019-06-05 01:20:06,082 INFO check db health.
+
+2019-06-05 01:20:12,902 INFO check master db.
+
+2019-06-05 01:20:16,085 INFO check db health.
+
+2019-06-05 01:20:22,904 INFO check master db.
+
+2019-06-05 01:20:26,088 INFO check db health.
+
+2019-06-05 01:20:32,905 INFO check master db.
+
+2019-06-05 01:20:36,091 INFO check db health.
+
+2019-06-05 01:20:42,907 INFO check master db.
+
+2019-06-05 01:20:46,097 INFO check db health.
+
+2019-06-05 01:20:52,909 INFO check master db.
+
+2019-06-05 01:20:56,100 INFO check db health.
+
+2019-06-05 01:21:02,911 INFO check master db.
+
+2019-06-05 01:21:06,103 INFO check db health.
+
+2019-06-05 01:21:12,913 INFO check master db.
+
+2019-06-05 01:21:16,106 INFO check db health.
+
+2019-06-05 01:21:22,915 INFO check master db.
+
+2019-06-05 01:21:26,109 INFO check db health.
+
+2019-06-05 01:21:32,917 INFO check master db.
+
+2019-06-05 01:21:36,113 INFO check db health.
+
+2019-06-05 01:21:42,918 INFO check master db.
+
+2019-06-05 01:21:46,116 INFO check db health.
+
+2019-06-05 01:21:52,920 INFO check master db.
+
+2019-06-05 01:21:56,119 INFO check db health.
+
+2019-06-05 01:22:02,922 INFO check master db.
+
+2019-06-05 01:22:06,123 INFO check db health.
+
+2019-06-05 01:22:12,924 INFO check master db.
+
+2019-06-05 01:22:16,128 INFO check db health.
+
+2019-06-05 01:22:22,926 INFO check master db.
+
+2019-06-05 01:22:26,132 INFO check db health.
+
+2019-06-05 01:22:32,928 INFO check master db.
+
+2019-06-05 01:22:36,135 INFO check db health.
+
+2019-06-05 01:22:42,929 INFO check master db.
+
+2019-06-05 01:22:46,138 INFO check db health.
+
+2019-06-05 01:22:52,930 INFO check master db.
+
+2019-06-05 01:22:56,140 INFO check db health.
+
+2019-06-05 01:23:02,932 INFO check master db.
+
+2019-06-05 01:23:06,143 INFO check db health.
+
+2019-06-05 01:23:12,934 INFO check master db.
+
+2019-06-05 01:23:16,147 INFO check db health.
+
+2019-06-05 01:23:22,936 INFO check master db.
+
+2019-06-05 01:23:26,150 INFO check db health.
+
+2019-06-05 01:23:32,938 INFO check master db.
+
+2019-06-05 01:23:36,151 INFO check db health.
+
+2019-06-05 01:23:42,939 INFO check master db.
+
+2019-06-05 01:23:46,156 INFO check db health.
+
+2019-06-05 01:23:52,941 INFO check master db.
+
+2019-06-05 01:23:56,159 INFO check db health.
+
+2019-06-05 01:24:02,942 INFO check master db.
+
+2019-06-05 01:24:06,162 INFO check db health.
+
+2019-06-05 01:24:12,943 INFO check master db.
+
+2019-06-05 01:24:16,166 INFO check db health.
+
+2019-06-05 01:24:22,944 INFO check master db.
+
+2019-06-05 01:24:26,169 INFO check db health.
+
+2019-06-05 01:24:32,946 INFO check master db.
+
+2019-06-05 01:24:36,172 INFO check db health.
+
+2019-06-05 01:24:42,948 INFO check master db.
+
+2019-06-05 01:24:46,173 INFO check db health.
+
+2019-06-05 01:24:52,950 INFO check master db.
+
+2019-06-05 01:24:56,174 INFO check db health.
+
+2019-06-05 01:25:02,952 INFO check master db.
+
+2019-06-05 01:25:06,178 INFO check db health.
+
+2019-06-05 01:25:12,953 INFO check master db.
+
+2019-06-05 01:25:16,183 INFO check db health.
+
+2019-06-05 01:25:22,955 INFO check master db.
+
+2019-06-05 01:25:26,187 INFO check db health.
+
+2019-06-05 01:25:32,957 INFO check master db.
+
+2019-06-05 01:25:36,190 INFO check db health.
+
+2019-06-05 01:25:42,958 INFO check master db.
+
+2019-06-05 01:25:46,193 INFO check db health.
+
+2019-06-05 01:25:52,960 INFO check master db.
+
+2019-06-05 01:25:56,196 INFO check db health.
+
+2019-06-05 01:26:02,962 INFO check master db.
+
+2019-06-05 01:26:06,199 INFO check db health.
+
+2019-06-05 01:26:12,963 INFO check master db.
+
+2019-06-05 01:26:16,200 INFO check db health.
+
+2019-06-05 01:26:22,965 INFO check master db.
+
+2019-06-05 01:26:26,203 INFO check db health.
+
+2019-06-05 01:26:32,967 INFO check master db.
+
+2019-06-05 01:26:36,205 INFO check db health.
+
+2019-06-05 01:26:42,969 INFO check master db.
+
+2019-06-05 01:26:46,211 INFO check db health.
+
+2019-06-05 01:26:52,970 INFO check master db.
+
+2019-06-05 01:26:56,214 INFO check db health.
+
+2019-06-05 01:27:02,972 INFO check master db.
+
+2019-06-05 01:27:06,217 INFO check db health.
+
+2019-06-05 01:27:12,974 INFO check master db.
+
+2019-06-05 01:27:16,220 INFO check db health.
+
+2019-06-05 01:27:22,975 INFO check master db.
+
+2019-06-05 01:27:26,223 INFO check db health.
+
+2019-06-05 01:27:32,977 INFO check master db.
+
+2019-06-05 01:27:36,226 INFO check db health.
+
+2019-06-05 01:27:42,979 INFO check master db.
+
+2019-06-05 01:27:46,229 INFO check db health.
+
+2019-06-05 01:27:52,981 INFO check master db.
+
+2019-06-05 01:27:56,231 INFO check db health.
+
+2019-06-05 01:28:02,983 INFO check master db.
+
+2019-06-05 01:28:06,234 INFO check db health.
+
+2019-06-05 01:28:12,984 INFO check master db.
+
+2019-06-05 01:28:16,236 INFO check db health.
+
+2019-06-05 01:28:22,986 INFO check master db.
+
+2019-06-05 01:28:26,238 INFO check db health.
+
+2019-06-05 01:28:32,988 INFO check master db.
+
+2019-06-05 01:28:36,240 INFO check db health.
+
+2019-06-05 01:28:42,989 INFO check master db.
+
+2019-06-05 01:28:46,243 INFO check db health.
+
+2019-06-05 01:28:52,991 INFO check master db.
+
+2019-06-05 01:28:56,246 INFO check db health.
+
+2019-06-05 01:29:02,993 INFO check master db.
+
+2019-06-05 01:29:06,247 INFO check db health.
+
+2019-06-05 01:29:12,994 INFO check master db.
+
+2019-06-05 01:29:16,249 INFO check db health.
+
+2019-06-05 01:29:22,995 INFO check master db.
+
+2019-06-05 01:29:26,251 INFO check db health.
+
+2019-06-05 01:29:32,996 INFO check master db.
+
+2019-06-05 01:29:36,254 INFO check db health.
+
+2019-06-05 01:29:42,997 INFO check master db.
+
+2019-06-05 01:29:46,256 INFO check db health.
+
+2019-06-05 01:29:52,998 INFO check master db.
+
+2019-06-05 01:29:56,257 INFO check db health.
+
+2019-06-05 01:30:02,999 INFO check master db.
+
+2019-06-05 01:30:06,259 INFO check db health.
+
+2019-06-05 01:30:13,000 INFO check master db.
+
+2019-06-05 01:30:16,260 INFO check db health.
+
+2019-06-05 01:30:23,002 INFO check master db.
+
+2019-06-05 01:30:26,263 INFO check db health.
+
+2019-06-05 01:30:33,003 INFO check master db.
+
+2019-06-05 01:30:36,270 INFO check db health.
+
+2019-06-05 01:30:43,004 INFO check master db.
+
+2019-06-05 01:30:46,271 INFO check db health.
+
+2019-06-05 01:30:53,006 INFO check master db.
+
+2019-06-05 01:30:56,274 INFO check db health.
+
+2019-06-05 01:31:03,007 INFO check master db.
+
+2019-06-05 01:31:06,279 INFO check db health.
+
+2019-06-05 01:31:13,008 INFO check master db.
+
+2019-06-05 01:31:16,280 INFO check db health.
+
+2019-06-05 01:31:23,010 INFO check master db.
+
+2019-06-05 01:31:26,283 INFO check db health.
+
+2019-06-05 01:31:33,012 INFO check master db.
+
+2019-06-05 01:31:36,286 INFO check db health.
+
+2019-06-05 01:31:43,014 INFO check master db.
+
+2019-06-05 01:31:46,289 INFO check db health.
+
+2019-06-05 01:31:53,014 INFO check master db.
+
+2019-06-05 01:31:56,292 INFO check db health.
+
+2019-06-05 01:32:03,016 INFO check master db.
+
+2019-06-05 01:32:06,295 INFO check db health.
+
+2019-06-05 01:32:13,018 INFO check master db.
+
+2019-06-05 01:32:16,299 INFO check db health.
+
+2019-06-05 01:32:23,019 INFO check master db.
+
+2019-06-05 01:32:26,302 INFO check db health.
+
+2019-06-05 01:32:33,021 INFO check master db.
+
+2019-06-05 01:32:36,307 INFO check db health.
+
+2019-06-05 01:32:43,023 INFO check master db.
+
+2019-06-05 01:32:46,310 INFO check db health.
+
+2019-06-05 01:32:53,025 INFO check master db.
+
+2019-06-05 01:32:56,311 INFO check db health.
+
+2019-06-05 01:33:03,026 INFO check master db.
+
+2019-06-05 01:33:06,315 INFO check db health.
+
+2019-06-05 01:33:13,028 INFO check master db.
+
+2019-06-05 01:33:16,318 INFO check db health.
+
+2019-06-05 01:33:23,030 INFO check master db.
+
+2019-06-05 01:33:26,322 INFO check db health.
+
+2019-06-05 01:33:33,032 INFO check master db.
+
+2019-06-05 01:33:36,325 INFO check db health.
+
+2019-06-05 01:33:43,034 INFO check master db.
+
+2019-06-05 01:33:46,328 INFO check db health.
+
+2019-06-05 01:33:53,036 INFO check master db.
+
+2019-06-05 01:33:56,331 INFO check db health.
+
+2019-06-05 01:34:03,037 INFO check master db.
+
+2019-06-05 01:34:06,336 INFO check db health.
+
+2019-06-05 01:34:13,038 INFO check master db.
+
+2019-06-05 01:34:16,339 INFO check db health.
+
+2019-06-05 01:34:23,040 INFO check master db.
+
+2019-06-05 01:34:26,343 INFO check db health.
+
+2019-06-05 01:34:33,042 INFO check master db.
+
+2019-06-05 01:34:36,345 INFO check db health.
+
+2019-06-05 01:34:43,044 INFO check master db.
+
+2019-06-05 01:34:46,348 INFO check db health.
+
+2019-06-05 01:34:53,045 INFO check master db.
+
+2019-06-05 01:34:56,351 INFO check db health.
+
+2019-06-05 01:35:03,047 INFO check master db.
+
+2019-06-05 01:35:06,352 INFO check db health.
+
+2019-06-05 01:35:13,049 INFO check master db.
+
+2019-06-05 01:35:16,355 INFO check db health.
+
+2019-06-05 01:35:23,050 INFO check master db.
+
+2019-06-05 01:35:26,358 INFO check db health.
+
+2019-06-05 01:35:33,051 INFO check master db.
+
+2019-06-05 01:35:36,360 INFO check db health.
+
+2019-06-05 01:35:43,053 INFO check master db.
+
+2019-06-05 01:35:46,363 INFO check db health.
+
+2019-06-05 01:35:53,055 INFO check master db.
+
+2019-06-05 01:35:56,366 INFO check db health.
+
+2019-06-05 01:36:03,056 INFO check master db.
+
+2019-06-05 01:36:06,369 INFO check db health.
+
+2019-06-05 01:36:13,058 INFO check master db.
+
+2019-06-05 01:36:16,372 INFO check db health.
+
+2019-06-05 01:36:23,059 INFO check master db.
+
+2019-06-05 01:36:26,375 INFO check db health.
+
+2019-06-05 01:36:33,060 INFO check master db.
+
+2019-06-05 01:36:36,379 INFO check db health.
+
+2019-06-05 01:36:43,061 INFO check master db.
+
+2019-06-05 01:36:46,381 INFO check db health.
+
+2019-06-05 01:36:53,062 INFO check master db.
+
+2019-06-05 01:36:56,383 INFO check db health.
+
+2019-06-05 01:37:03,063 INFO check master db.
+
+2019-06-05 01:37:06,389 INFO check db health.
+
+2019-06-05 01:37:13,065 INFO check master db.
+
+2019-06-05 01:37:16,392 INFO check db health.
+
+2019-06-05 01:37:23,067 INFO check master db.
+
+2019-06-05 01:37:26,395 INFO check db health.
+
+2019-06-05 01:37:33,069 INFO check master db.
+
+2019-06-05 01:37:36,398 INFO check db health.
+
+2019-06-05 01:37:43,071 INFO check master db.
+
+2019-06-05 01:37:46,401 INFO check db health.
+
+2019-06-05 01:37:53,072 INFO check master db.
+
+2019-06-05 01:37:56,404 INFO check db health.
+
+2019-06-05 01:38:03,075 INFO check master db.
+
+2019-06-05 01:38:06,407 INFO check db health.
+
+2019-06-05 01:38:13,075 INFO check master db.
+
+2019-06-05 01:38:16,409 INFO check db health.
+
+2019-06-05 01:38:23,076 INFO check master db.
+
+2019-06-05 01:38:26,415 INFO check db health.
+
+2019-06-05 01:38:33,078 INFO check master db.
+
+2019-06-05 01:38:36,418 INFO check db health.
+
+2019-06-05 01:38:43,080 INFO check master db.
+
+2019-06-05 01:38:46,421 INFO check db health.
+
+2019-06-05 01:38:53,082 INFO check master db.
+
+2019-06-05 01:38:56,424 INFO check db health.
+
+2019-06-05 01:39:03,083 INFO check master db.
+
+2019-06-05 01:39:06,427 INFO check db health.
+
+2019-06-05 01:39:13,084 INFO check master db.
+
+2019-06-05 01:39:16,430 INFO check db health.
+
+2019-06-05 01:39:23,086 INFO check master db.
+
+2019-06-05 01:39:26,433 INFO check db health.
+
+2019-06-05 01:39:33,087 INFO check master db.
+
+2019-06-05 01:39:36,434 INFO check db health.
+
+2019-06-05 01:39:43,088 INFO check master db.
+
+2019-06-05 01:39:46,436 INFO check db health.
+
+2019-06-05 01:39:53,090 INFO check master db.
+
+2019-06-05 01:39:56,441 INFO check db health.
+
+2019-06-05 01:40:03,091 INFO check master db.
+
+2019-06-05 01:40:06,444 INFO check db health.
+
+2019-06-05 01:40:13,092 INFO check master db.
+
+2019-06-05 01:40:16,448 INFO check db health.
+
+2019-06-05 01:40:23,093 INFO check master db.
+
+2019-06-05 01:40:26,451 INFO check db health.
+
+2019-06-05 01:40:33,094 INFO check master db.
+
+2019-06-05 01:40:36,453 INFO check db health.
+
+2019-06-05 01:40:43,096 INFO check master db.
+
+2019-06-05 01:40:46,456 INFO check db health.
+
+2019-06-05 01:40:53,098 INFO check master db.
+
+2019-06-05 01:40:56,459 INFO check db health.
+
+2019-06-05 01:41:03,099 INFO check master db.
+
+2019-06-05 01:41:06,463 INFO check db health.
+
+2019-06-05 01:41:13,100 INFO check master db.
+
+2019-06-05 01:41:16,466 INFO check db health.
+
+2019-06-05 01:41:23,102 INFO check master db.
+
+2019-06-05 01:41:26,471 INFO check db health.
+
+2019-06-05 01:41:33,104 INFO check master db.
+
+2019-06-05 01:41:36,475 INFO check db health.
+
+2019-06-05 01:41:43,105 INFO check master db.
+
+2019-06-05 01:41:46,477 INFO check db health.
+
+2019-06-05 01:41:53,107 INFO check master db.
+
+2019-06-05 01:41:56,480 INFO check db health.
+
+2019-06-05 01:42:03,109 INFO check master db.
+
+2019-06-05 01:42:06,481 INFO check db health.
+
+2019-06-05 01:42:13,110 INFO check master db.
+
+2019-06-05 01:42:16,483 INFO check db health.
+
+2019-06-05 01:42:23,111 INFO check master db.
+
+2019-06-05 01:42:26,485 INFO check db health.
+
+2019-06-05 01:42:33,113 INFO check master db.
+
+2019-06-05 01:42:36,488 INFO check db health.
+
+2019-06-05 01:42:43,115 INFO check master db.
+
+2019-06-05 01:42:46,492 INFO check db health.
+
+2019-06-05 01:42:53,116 INFO check master db.
+
+2019-06-05 01:42:56,497 INFO check db health.
+
+2019-06-05 01:43:03,118 INFO check master db.
+
+2019-06-05 01:43:06,500 INFO check db health.
+
+2019-06-05 01:43:13,120 INFO check master db.
+
+2019-06-05 01:43:16,502 INFO check db health.
+
+2019-06-05 01:43:23,121 INFO check master db.
+
+2019-06-05 01:43:26,503 INFO check db health.
+
+2019-06-05 01:43:33,122 INFO check master db.
+
+2019-06-05 01:43:36,507 INFO check db health.
+
+2019-06-05 01:43:43,124 INFO check master db.
+
+2019-06-05 01:43:46,510 INFO check db health.
+
+2019-06-05 01:43:53,126 INFO check master db.
+
+2019-06-05 01:43:56,512 INFO check db health.
+
+2019-06-05 01:44:03,127 INFO check master db.
+
+2019-06-05 01:44:06,514 INFO check db health.
+
+2019-06-05 01:44:13,128 INFO check master db.
+
+2019-06-05 01:44:16,515 INFO check db health.
+
+2019-06-05 01:44:23,130 INFO check master db.
+
+2019-06-05 01:44:26,517 INFO check db health.
+
+2019-06-05 01:44:33,132 INFO check master db.
+
+2019-06-05 01:44:36,518 INFO check db health.
+
+2019-06-05 01:44:43,132 INFO check master db.
+
+2019-06-05 01:44:46,519 INFO check db health.
+
+2019-06-05 01:44:53,134 INFO check master db.
+
+2019-06-05 01:44:56,521 INFO check db health.
+
+2019-06-05 01:45:03,136 INFO check master db.
+
+2019-06-05 01:45:06,522 INFO check db health.
+
+2019-06-05 01:45:13,138 INFO check master db.
+
+2019-06-05 01:45:16,523 INFO check db health.
+
+2019-06-05 01:45:23,139 INFO check master db.
+
+2019-06-05 01:45:26,524 INFO check db health.
+
+2019-06-05 01:45:33,139 INFO check master db.
+
+2019-06-05 01:45:36,525 INFO check db health.
+
+2019-06-05 01:45:43,141 INFO check master db.
+
+2019-06-05 01:45:46,526 INFO check db health.
+
+2019-06-05 01:45:53,142 INFO check master db.
+
+2019-06-05 01:45:56,528 INFO check db health.
+
+2019-06-05 01:46:03,143 INFO check master db.
+
+2019-06-05 01:46:06,529 INFO check db health.
+
+2019-06-05 01:46:13,145 INFO check master db.
+

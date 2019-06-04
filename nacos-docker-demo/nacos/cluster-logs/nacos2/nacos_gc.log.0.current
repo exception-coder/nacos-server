@@ -1,0 +1,14 @@
+OpenJDK 64-Bit Server VM (25.201-b09) for linux-amd64 JRE (1.8.0_201-b09), built on Mar  4 2019 22:08:17 by "mockbuild" with gcc 4.8.5 20150623 (Red Hat 4.8.5-36)
+Memory: 4k page, physical 16335036k(5214720k free), swap 2097148k(1931004k free)
+CommandLine flags: -XX:CompressedClassSpaceSize=327155712 -XX:GCLogFileSize=104857600 -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/nacos/logs/java_heapdump.hprof -XX:InitialHeapSize=2147483648 -XX:MaxHeapSize=2147483648 -XX:MaxMetaspaceSize=335544320 -XX:MaxNewSize=1073741824 -XX:MetaspaceSize=134217728 -XX:NewSize=1073741824 -XX:NumberOfGCLogFiles=10 -XX:-OmitStackTraceInFastThrow -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseGCLogFileRotation -XX:-UseLargePages -XX:+UseParallelGC 
+2019-06-04T19:27:35.083+0800: 8.478: [GC (Allocation Failure) [PSYoungGen: 786432K->11253K(917504K)] 786432K->11341K(1966080K), 0.0633524 secs] [Times: user=0.13 sys=0.00, real=0.06 secs] 
+2019-06-04T19:27:45.772+0800: 19.167: [GC (Allocation Failure) [PSYoungGen: 797685K->25903K(917504K)] 797773K->26023K(1966080K), 0.1218377 secs] [Times: user=0.16 sys=0.01, real=0.12 secs] 
+2019-06-04T19:31:54.964+0800: 268.359: [GC (Allocation Failure) [PSYoungGen: 812335K->36790K(917504K)] 812455K->36950K(1966080K), 0.0264339 secs] [Times: user=0.13 sys=0.01, real=0.03 secs] 
+2019-06-04T20:04:24.957+0800: 2218.352: [GC (Allocation Failure) [PSYoungGen: 823222K->36630K(917504K)] 823382K->36822K(1966080K), 0.0235051 secs] [Times: user=0.13 sys=0.00, real=0.02 secs] 
+2019-06-04T20:40:50.706+0800: 4404.101: [GC (Allocation Failure) [PSYoungGen: 823062K->33380K(917504K)] 823254K->33588K(1966080K), 0.0282127 secs] [Times: user=0.15 sys=0.00, real=0.03 secs] 
+2019-06-04T21:18:35.992+0800: 6669.387: [GC (Allocation Failure) [PSYoungGen: 819812K->32359K(1000960K)] 820020K->32575K(2049536K), 0.0287060 secs] [Times: user=0.14 sys=0.02, real=0.03 secs] 
+2019-06-04T22:04:20.361+0800: 9413.756: [GC (Allocation Failure) [PSYoungGen: 984679K->14536K(999936K)] 984895K->32824K(2048512K), 0.0327482 secs] [Times: user=0.17 sys=0.01, real=0.03 secs] 
+2019-06-04T22:51:25.575+0800: 12238.970: [GC (Allocation Failure) [PSYoungGen: 966856K->1216K(994816K)] 985144K->32873K(2043392K), 0.0177099 secs] [Times: user=0.07 sys=0.02, real=0.02 secs] 
+2019-06-04T23:38:40.755+0800: 15074.150: [GC (Allocation Failure) [PSYoungGen: 947392K->1152K(947712K)] 979049K->32929K(1996288K), 0.0067156 secs] [Times: user=0.01 sys=0.01, real=0.01 secs] 
+2019-06-05T00:25:47.137+0800: 17900.532: [GC (Allocation Failure) [PSYoungGen: 947328K->1466K(995328K)] 979105K->33315K(2043904K), 0.0070359 secs] [Times: user=0.02 sys=0.00, real=0.00 secs] 
+2019-06-05T01:13:18.245+0800: 20751.640: [GC (Allocation Failure) [PSYoungGen: 944570K->1088K(995840K)] 976419K->33347K(2044416K), 0.0120094 secs] [Times: user=0.05 sys=0.00, real=0.02 secs] 

@@ -1,0 +1,16 @@
+2019-06-04 19:28:08,669 INFO DEFAULT_GROUP@@cloud-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-04 19:28:08,674 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-service, ips: 192.168.0.119:8081_true,
+
+2019-06-04 19:28:08,688 INFO DEFAULT_GROUP@@cloud-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-04 19:28:08,688 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-service, ips: 192.168.0.119:8081_true,
+
+2019-06-04 19:28:35,484 INFO DEFAULT_GROUP@@cloud-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-04 19:28:35,484 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-service, ips: 
+
+2019-06-04 19:28:39,618 INFO DEFAULT_GROUP@@cloud-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.119:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2019-06-04 19:28:39,619 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-service, ips: 192.168.0.119:8081_true,
+
