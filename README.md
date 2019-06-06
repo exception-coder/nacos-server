@@ -48,8 +48,6 @@ $ cd nacos
 # 将 nacos-server 建表sql 拷贝到 mysql5.7 容器中
 $  docker cp conf/nacos-mysql.sql mysql5.7:/root/mysql/sql
 
-mysql> show database;
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'database' at line 1
 mysql> show databases;
 +--------------------+
 | Database           |
