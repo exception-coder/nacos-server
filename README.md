@@ -43,8 +43,30 @@ $ sh shutdown.sh
 $ docker ps
 CONTAINER ID        IMAGE                                      COMMAND                  CREATED             STATUS                  PORTS                                            NAMES
 c813f6f556b0        store/oracle/mysql-enterprise-server:5.7   "/entrypoint.sh mysq…"   21 hours ago        Up 21 hours (healthy)   0.0.0.0:3306->3306/tcp, 33060/tcp                mysql5.7
-$ mkdir nacos
+# 进入 nacos-server-1.0.0.tar.gz  解压后根目录
 $ cd nacos
+# 将 nacos-server 建表sql 拷贝到 mysql5.7 容器中
+$  docker cp conf/nacos-mysql.sql mysql5.7:/root/mysql/sql
+
+mysql> show database;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'database' at line 1
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| nacos_devtest      |
+| performance_schema |
+| sys                |
++--------------------+
+5 rows in set (0.00 sec)
+# 没有 nacos_devtest 库的自行创建一个
+mysql> use nacos_devtest;
+Database changed
+# 执行建表语句
+mysql> source /root/mysql/sql/nacos-mysql.sql
+
 # 创建nacos集群配置文件 cluster.conf 用于配置nacos应用ip及端口
 $ mkdir conf && touch ./conf/cluster.conf
 # 创建 env 目录以放置 nacos-hostname.env 文件用于配置数据库相关信息
