@@ -10,18 +10,18 @@
 
 ##### 从github上下载源码方式获取
 
-```bash
+```basic
 $ git clone https://github.com/alibaba/nacos.git
 $ cd nacos/
 $ mvn -Prelease-nacos clean install -U  
 $ ls -al distribution/target/
-# change the $version to your actual path
+' change the $version to your actual path'
 $ cd distribution/target/nacos-server-$version/nacos/bin
 ```
 
 ##### 下载编译后压缩包方式
 
-```bash
+```basic
 $ wegt https://github.com/alibaba/nacos/releases/download/1.0.0/nacos-server-1.0.0.tar.gz
 $ tar -xvf nacos-server-1.0.0.tar.gz
 $ cd nacos/bin
@@ -29,8 +29,8 @@ $ cd nacos/bin
 
 #### 3.启动关闭服务
 
-```bash
-# 启动命令(standalone代表着单机模式运行，非集群模式)
+```basic
+'启动命令(standalone代表着单机模式运行，非集群模式)'
 $ sh startup.sh -m standalone
 $ sh shutdown.sh
 ```
@@ -39,13 +39,13 @@ $ sh shutdown.sh
 
 ###  nacos-server docker 集群基于mysql集群部署
 
-```bash
+```basic
 $ docker ps
 CONTAINER ID        IMAGE                                      COMMAND                  CREATED             STATUS                  PORTS                                            NAMES
 c813f6f556b0        store/oracle/mysql-enterprise-server:5.7   "/entrypoint.sh mysq…"   21 hours ago        Up 21 hours (healthy)   0.0.0.0:3306->3306/tcp, 33060/tcp                mysql5.7
-# 进入 nacos-server-1.0.0.tar.gz  解压后根目录
+'进入 nacos-server-1.0.0.tar.gz  解压后根目录'
 $ cd nacos
-# 将 nacos-server 建表sql 拷贝到 mysql5.7 容器中
+'将 nacos-server 建表sql 拷贝到 mysql5.7 容器中'
 $  docker cp conf/nacos-mysql.sql mysql5.7:/root/mysql/sql
 
 mysql> show databases;
@@ -59,28 +59,28 @@ mysql> show databases;
 | sys                |
 +--------------------+
 5 rows in set (0.00 sec)
-# 没有 nacos_devtest 库的自行创建一个
+'没有 nacos_devtest 库的自行创建一个'
 mysql> use nacos_devtest;
 Database changed
-# 执行建表语句
+'执行建表语句'
 mysql> source /root/mysql/sql/nacos-mysql.sql
 
-# 创建nacos集群配置文件 cluster.conf 用于配置nacos应用ip及端口
+'创建nacos集群配置文件 cluster.conf 用于配置nacos应用ip及端口'
 $ mkdir conf && touch ./conf/cluster.conf
-# 创建 env 目录以放置 nacos-hostname.env 文件用于配置数据库相关信息
+'创建 env 目录以放置 nacos-hostname.env 文件用于配置数据库相关信息'
 $ mkdir env
 $ cd env
 $ touch nacos-hostname.env
 $ cd ..
-# 创建 docker-compose.yml
+'创建 docker-compose.yml'
 $ touch docker-compose.yml
 $ mkdir prometheus && touch ./prometheus/prometheus-cluster.yaml
 $ mkdir init.d && touch ./init.d/custom.properties
 $ mkdir -p cluster-logs/nacos1 cluster-logs/nacos2 cluster-logs/nacos3
-# docker-compose 执行后 docker 会创建一个名为 nacos_default 的 network
-# ？network命名方式 当前配置文件所在文件夹_default
+'docker-compose 执行后 docker 会创建一个名为 nacos_default 的 network'
+'？network命名方式 当前配置文件所在文件夹_default'
 $ docker-compose up
-# 将 mysql5.7 链接 到 nacos_default
+'将 mysql5.7 链接 到 nacos_default'
 $ docker network connect nacos_default mysql5.7
 ```
 
